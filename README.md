@@ -1,35 +1,5 @@
-# 潮汐钓具 Vue3
+# 鹈鹕骑自行车 2D 动画
 
-一个使用 Vue 3 全局构建和 Node.js 静态服务器运行的单页示例项目。
+一个纯 HTML、CSS、JavaScript 和 SVG 实现的单页动画：鹈鹕沿海岸骑自行车，包含车轮旋转、交替蹬踏、围巾飘动、云朵与道路移动效果。
 
-## 本地运行
-
-```bash
-npm run dev
-```
-
-默认访问地址：
-
-```text
-http://localhost:4173
-```
-
-如需修改端口：
-
-```bash
-PORT=3000 npm run dev
-```
-
-## 项目结构
-
-```text
-.
-├── index.html
-├── package.json
-├── server.js
-└── vue.global.prod.js
-```
-
-## Git 忽略规则
-
-仓库会排除本地依赖、运行日志、环境变量、构建产物、缓存文件以及常见系统/编辑器临时文件。
+直接用浏览器打开 `index.html` 即可运行，无需安装依赖或构建。

@@ -1,8 +1,0 @@
-{
-  "name": "tide-tackle-vue3",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "node server.js"
-  }
-}
